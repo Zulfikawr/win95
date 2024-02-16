@@ -65,14 +65,16 @@
     <div class="inner-content">
       <h3 class="heading"><b>About Me</b></h3>
       <p class="paragraph" style="text-align: justify;">
-        Hello there! I am Zulfikar from Jakarta, and I'm 20 year old student
-        who's extremely passionate in International Relations and Data Analytics.
-        I am currently 4th semester student in Universitas Pembangunan Nasional
-        Veteran Jakarta.
+        Hello there! I'm Zulfikar from Jakarta, a 20-year-old student with a passion 
+        for both International Relations and Data Analytics. Currently, I am in my 4th semester 
+        at Universitas Pembangunan Nasional Veteran Jakarta.
       </p>
       <p class="paragraph">
-        I have worked with a mixture of design and frontend/backend
-        technologies, be it for Web Development or iOS Development.
+        Outside of my classes, I like to focus on practical ways to improve what I'm learning. 
+        I believe there's more to learning than just textbooks. I particularly enjoy working on 
+        data analytics projects. My goal is to bring together Data and International Relations 
+        to make a positive impact in those fields. I want to create positive changes and improve 
+        understanding between nations.
       </p>
     </div>
 
@@ -105,13 +107,11 @@
       <p class="paragraph">
         My high school experience at MAN 2 Jakarta was focused on foreign languages and communications. 
         This program helped me develop strong skills in both areas, which have been valuable in my life. 
-        As a member of MPK (Majelis Perwakilan Kelas), not only provided me with leadership experience and 
+        Being a part of MPK (Majelis Perwakilan Kelas) not only provided me with leadership experience and 
         teamwork skills but also helped me understand the diverse perspectives of my classmates. 
-        Additionally, I consistently performed well academically, even ranking at the top of my class. 
+        I consistently performed well academically, even ranking at the top of my class. 
         Interestingly, while excelling in language and communication, my favorite subject, and the one 
-        where I achieved my highest score, was actually math, which highlight my diverse academic interests. 
-        This strong academic performance allowed me to secure admission to UPNVJ University through 
-        the SNMPTN invitation program.
+        where I achieved my highest score, was actually math, which highlight my diverse academic interests.
       </p>
 
     </div>
@@ -125,12 +125,12 @@
         December 2023 - February 2024 <br> <br>
         I recently participated in Quantium's Virtual Internship, and it was incredibly useful 
         to understand what it might be like to participate on a data analyst team at Quantium.
-        I worked on a project to conduct analyses on a client's transaction dataset and
+        I worked on a tasks to conduct analyses on a client's transaction dataset and
         identify customer purchasing behaviours to generate insights and provide
         commercial recommendations. I used Python and built my Data Visualisation in PowerBI. 
         <br> <br>
 
-        My responsibilities in this project included:
+        My responsibilities in this internship included:
         <br> <br>
 
         - Analyzed transaction and customer data to identify trends and inconsistencies.<br>
@@ -147,12 +147,12 @@
 
       <b> Data Scientist - IDX Partners </b>
       <p class="paragraph">
-        December 2023 - February 2024 <br> <br>
-        I recently participated in Quantium's Virtual Internship, and it was incredibly useful 
-        to understand what it might be like to participate on a data analyst team at Quantium.
+        December 2023 <br> <br>
+        I participated in IDX Partners x Rakamin Academy Virtual Internship, and it was incredibly 
+        useful to understand what it might be like to participate on a data analyst team at Quantium.
         I worked on a project to conduct analyses on a client's transaction dataset and
         identify customer purchasing behaviours to generate insights and provide
-        commercial recommendations. I used Python and built my Data Visualisation in PowerBI. 
+        commercial recommendations. I used Python and built my Data Visualisation in PowerBI.
         <br> <br>
 
         My responsibilities in this internship included:

@@ -35,7 +35,7 @@
       >
         <img
           class="icon-image"
-          :src="require('@/assets/win95Icons/' + window.iconImage)"
+          :src="require('@/assets/icons/win95icons/' + window.iconImage)"
           :alt="window.altText"
         />
         <p>{{ window.displayName }}</p>
@@ -47,7 +47,7 @@
       >
         <img
           class="icon-image"
-          :src="require('@/assets/win95Icons/' + window.iconImage)"
+          :src="require('@/assets/icons/win95icons/' + window.iconImage)"
           :alt="window.altText"
         />
         <p>{{ window.displayName }}</p>

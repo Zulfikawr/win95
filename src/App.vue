@@ -118,18 +118,14 @@ import Navbar from "./components/windows/Navbar";
 import Window from "./components/template/Window";
 import AppGrid from "./components/AppGrid";
 import FilesWindow from "./components/template/FilesWindow.vue";
-import ImagePreviewWindow from "./components/template/ImagePreviewWindow.vue";
 import Placeholder from "./components/views/Placeholder";
-import Photos from "./components/views/Photos";
 import Bio from "./components/views/Bio";
 import Resume from "./components/views/Resume";
-import Nossaflex from "./components/views/Nossaflex";
+import Projects from "./components/views/Projects";
+import Publications from "./components/views/Publications";
 import Mail from "./components/template/Mail";
 import StartMenu from "./components/StartMenu.vue";
-import Webos from "./components/template/WebOS";
-import Opensource from "./components/views/Opensource";
-import Wwdc2021 from "./components/views/Wwdc2021";
-import Wwdc2022 from "./components/views/Wwdc2022";
+
 export default {
   name: "App",
   data: function () {
@@ -144,17 +140,13 @@ export default {
     AppGrid,
     Placeholder,
     FilesWindow,
-    ImagePreviewWindow,
-    Photos,
     Bio,
     Resume,
-    Nossaflex,
+    Projects,
+    Publications,
     Mail,
     StartMenu,
-    Webos,
-    Opensource,
-    Wwdc2021,
-    Wwdc2022,
+
     // TopNavbar,
   },
   computed: {
@@ -194,32 +186,6 @@ export default {
       "setFullscreenWindowHeight",
       window.innerHeight - navbarHeight - topNavbarHeight + "px"
     );
-
-    const newPhotoWindowPayload = {
-      windowId: "PhotosWindow",
-      windowState: "close",
-      displayName: "Photos",
-      windowComponent: "FilesWindow",
-      windowContent: "",
-      windowContentPadding: {
-        top: "0px",
-        right: "0px",
-        bottom: "0px",
-        left: "0px",
-      },
-      position: "absolute",
-      positionX: "6vw",
-      positionY: "12vh",
-      iconImage: "photos.png",
-      altText: "Photos",
-      fullscreen: false,
-      showInAppGrid: true,
-      showInNavbar: true,
-      // imagePreview: '',
-      folderContent: this.$store.getters.getPhotoFiles,
-      folderSize: 239217323,
-    };
-    this.$store.commit("pushNewWindow", newPhotoWindowPayload);
 
     this.openWindow("BiographyWindow");
   },

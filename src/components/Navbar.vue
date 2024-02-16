@@ -41,47 +41,6 @@
         </div>
 
         <div
-          alt="NOSSAFLEX"
-          class="icon-nossaflex"
-          v-on:click="showNossaflex"
-          :class="[
-            $store.getters.activeWindow == 'NOSSAFLEX'
-              ? 'icon-depressed'
-              : 'icon',
-            $store.getters.isCloseNossaflex ? '' : 'hidden',
-          ]"
-        >
-          <img class="icon-image" src="../assets/win95Icons/noss.webp" />
-          NOSSAFLEX
-        </div>
-
-        <div
-          alt="Photos"
-          class="icon-photo"
-          v-on:click="showPhotos"
-          :class="[
-            $store.getters.activeWindow == 'Photos' ? 'icon-depressed' : 'icon',
-            $store.getters.isClosePhotos ? '' : 'hidden',
-          ]"
-        >
-          <img class="icon-image" src="../assets/win95Icons/photos.png" />
-          Photos
-        </div>
-
-        <div
-          alt="Mail"
-          class="icon-mail"
-          v-on:click="showMail"
-          :class="[
-            $store.getters.activeWindow == 'Mail' ? 'icon-depressed' : 'icon',
-            $store.getters.isCloseMail ? '' : 'hidden',
-          ]"
-        >
-          <img class="icon-image" src="../assets/win95Icons/mail.png" />
-          Mail
-        </div>
-
-        <div
           alt="Resume"
           class="icon-resume"
           v-on:click="showResume"
@@ -90,7 +49,7 @@
             $store.getters.isCloseResume ? '' : 'hidden',
           ]"
         >
-          <img class="icon-image" src="../assets/iPhone-Icons/resume.png" />
+          <img class="icon-image" src="../assets/icons/win95icons/resume.png" />
           Résumé
         </div>
         <div
@@ -103,12 +62,51 @@
               : 'icon',
             $store.getters.isMobileAlert ? '' : 'hidden',
           ]"
+        >        
+
+        <div
+          alt="Projects"
+          class="icon-projects"
+          v-on:click="showProjects"
+          :class="[
+            $store.getters.activeWindow == 'Publications' ? 'icon-depressed' : 'icon',
+            $store.getters.isClosePublications ? '' : 'hidden',
+          ]"
         >
+          <img class="icon-image" src="../assets/icons/win95icons/folder.png" />
+          Projects
+        </div>
+
+        <div
+          alt="Publications"
+          class="icon-publications"
+          v-on:click="showPublications"
+          :class="[
+            $store.getters.activeWindow == 'Publications' ? 'icon-depressed' : 'icon',
+            $store.getters.isClosePublications ? '' : 'hidden',
+          ]"
+        >
+          <img class="icon-image" src="../assets/icons/win95icons/directory.png" />
+          Publications
+        </div>
+
+        <div
+          alt="Mail"
+          class="icon-mail"
+          v-on:click="showMail"
+          :class="[
+            $store.getters.activeWindow == 'Mail' ? 'icon-depressed' : 'icon',
+            $store.getters.isCloseMail ? '' : 'hidden',
+          ]"
+        >
+          <img class="icon-image" src="../assets/icons/win95icons/mail.png" />
+          Mail
+        </div>
+
           <img class="icon-image" src="../assets/warning.png" />
           Warning
         </div>
-        <!-- <div alt="Simulator" class="icon-simulator icon-special" v-on:click="showSimulator"></div> -->
-        <!-- <div alt="Stickies" class="icon-stickies icon" v-on:click="showStickies"></div> -->
+        
       </div>
       <div alt="time" class="time">
         <img src="../assets/speakers.png" class="icon-image" />
@@ -351,26 +349,11 @@ export default {
     toggleShow() {
       this.showHello = false;
     },
-    showNossaflex() {
-      this.$store.commit("changeActiveWindow", "NOSSAFLEX");
-      this.$store.commit("toggleShownNossaflex", true);
+    showPublications() {
+      this.$store.commit("changeActiveWindow", "Publications");
+      this.$store.commit("toggleShownPublications", true);
       setTimeout(() => {
-        this.$store.commit("zIndexIncrement", "noss");
-      }, 1);
-    },
-    showPhotos() {
-      this.$store.commit("changeActiveWindow", "Photos");
-      this.$store.commit("toggleShownPhotos", true);
-      setTimeout(() => {
-        this.$store.commit("zIndexIncrement", "photos");
-      }, 1);
-    },
-    showStickies() {
-      //deprecated
-      this.$store.commit("changeActiveWindow", "Stickies");
-      this.$store.commit("toggleShownStickies", true);
-      setTimeout(() => {
-        this.$store.commit("zIndexIncrement", "stickies");
+        this.$store.commit("zIndexIncrement", "publications");
       }, 1);
     },
     showMail() {
@@ -385,14 +368,6 @@ export default {
       this.$store.commit("toggleShownBio", true);
       setTimeout(() => {
         this.$store.commit("zIndexIncrement", "bio");
-      }, 1);
-    },
-    showSimulator() {
-      // deprecated
-      this.$store.commit("changeActiveWindow", "Simulator");
-      this.$store.commit("toggleShownSimulator", true);
-      setTimeout(() => {
-        this.$store.commit("zIndexIncrement", "simulator");
       }, 1);
     },
     showMenu() {

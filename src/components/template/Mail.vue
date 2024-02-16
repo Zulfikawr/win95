@@ -41,7 +41,7 @@
         <div class="window-name">
           <img
             class="icon-image"
-            :src="require('@/assets/win95Icons/' + this.window.iconImage)"
+            :src="require('@/assets/icons/win95icons/' + this.window.iconImage)"
             :alt="window.altText"
           />{{ this.window.displayName }}
         </div>

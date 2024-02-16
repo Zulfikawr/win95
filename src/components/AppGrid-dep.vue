@@ -6,34 +6,39 @@
         <div class="icon-text">Biography</div>
       </div>
     </button>
+
     <button class="app" v-touch:tap="openResume" v-on:dblclick="openResume">
       <!-- <a href="/files/don_chia_resume.pdf" target="_blank"> -->
-      <img class="icon app-github" src="../assets/iPhone-Icons/resume.png" />
+      <img class="icon app-github" src="../assets/win95Icons/text.png" />
       <div class="border">
         <div class="icon-text">Résumé</div>
       </div>
       <!-- </a>  -->
     </button>
-    <button class="app" v-touch:tap="openPhotos" v-on:dblclick="openPhotos">
-      <img class="icon app-photos" src="../assets/win95Icons/photos.png" />
+
+    <button class="app" v-touch:tap="openProjects" v-on:dblclick="openProjects">
+      <img class="icon app-photos" src="../assets/win95Icons/directory.png" />
       <div class="border">
-        <div class="icon-text">Photos</div>
+        <div class="icon-text">Projects</div>
       </div>
     </button>
-    <button class="app" v-touch:tap="openNoss" v-on:dblclick="openNoss">
-      <img class="icon app-noss" src="../assets/win95Icons/noss.webp" />
+
+    <button class="app" v-touch:tap="openPublications" v-on:dblclick="openPublications">
+      <img class="icon app-photos" src="../assets/win95Icons/text.png" />
       <div class="border">
-        <div class="icon-text">NOSSAFLEX</div>
+        <div class="icon-text">Publications</div>
       </div>
     </button>
+
     <button class="app" v-touch:tap="openMail" v-on:dblclick="openMail">
       <img class="icon app-mail" src="../assets/win95Icons/mail.png" />
       <div class="border">
         <div class="icon-text">Mail</div>
       </div>
     </button>
+
     <button class="app">
-      <a href="https://github.com/dhs17y2adonchia" target="_blank">
+      <a href="https://github.com/muhammad-zulfikar" target="_blank">
         <img class="icon app-github" src="../assets/win95Icons/Github.webp" />
         <div class="border">
           <div class="icon-text">GitHub</div>
@@ -140,6 +145,14 @@ export default {
       this.$store.commit("changeActiveWindow", "Resume");
       setTimeout(() => {
         this.$store.commit("zIndexIncrement", "resume");
+      }, 1);
+    openPublications(e) {
+      e.stopPropagation();
+      this.$store.commit("toggleClosePublications", true);
+      this.$store.commit("toggleShownPublicationa", true);
+      this.$store.commit("changeActiveWindow", "Publications");
+      setTimeout(() => {
+        this.$store.commit("zIndexIncrement", "publications");
       }, 1);
     },
   },

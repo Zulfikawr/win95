@@ -4,61 +4,63 @@
       <img class="sidebar-image" src="@/assets/sidebar-image.png" />
     </div>
     <div class="socials">
-      <a href="https://www.instagram.com/_dontax_/" target="_blank">
-        <div class="bar">
-          <img
-            class="social-image"
-            src="@/assets/iPhone-Icons/Instagram.webp"
-          />
-          <div class="social-text"><u>I</u>nstagram</div>
-        </div>
-      </a>
-      <a href="https://www.reddit.com/user/satoshigekkouga2303" target="_blank">
-        <div class="bar">
-          <img class="social-image" src="@/assets/iPhone-Icons/Reddit.webp" />
-          <u>R</u>eddit
-        </div>
-      </a>
+
       <a
-        href="https://www.linkedin.com/in/don-chia"
-        target="_blank"
-      >
+        href="https://www.linkedin.com/in/muhammad-zulfikar-076a7b227"
+        target="_blank">
         <div class="bar">
-          <img class="social-image" src="@/assets/iPhone-Icons/Linkedin.webp" />
+          <img class="social-image" src="@/assets/icons/win95icons/social/linkedin.png" />
           <u>L</u>inkedIn
         </div>
       </a>
-      <a href="https://twitter.com/lizarDON2303" target="_blank">
+
+      <a href="https://github.com/muhammad-zulfikar" target="_blank">
         <div class="bar">
-          <img class="social-image" src="@/assets/iPhone-Icons/Twitter.webp" />
-          <u>T</u>witter
-        </div>
-      </a>
-      <a href="https://github.com/DonChiaQE" target="_blank">
-        <div class="bar">
-          <img class="social-image" src="@/assets/iPhone-Icons/Github.webp" />
+          <img class="social-image" src="@/assets/icons/win95icons/social/github.svg" />
           <u>G</u>itHub
         </div>
       </a>
-      <div class="divider"></div>
-      <a href="/files/don_chia_resume.pdf" target="_blank">
-        <div class="bar">
-          <img class="social-image" src="@/assets/win95Icons/resume.png" />
-          <u>R</u>ésumé
-        </div>
-      </a>
-      <a
-        href="https://apps.apple.com/app/nossaflex/id1523558285"
-        target="_blank"
-      >
+
+      <a href="https://wa.me/+6285156453730" target="_blank">
         <div class="bar">
           <img
             class="social-image"
-            src="@/assets/iPhone-Icons/Nossaflex.webp"
+            src="@/assets/icons/win95icons/social/whatsapp.png"
           />
-          <u>N</u>OSSAFLEX
+          <div class="social-text"><u>W</u>hatsApp</div>
         </div>
       </a>
+
+      <a href="https://telegram.com/spookies/" target="_blank">
+        <div class="bar">
+          <img class="social-image" src="@/assets/icons/win95icons/social/telegram.png" />
+          <u>T</u>elegram
+        </div>
+      </a>      
+
+      <a href="https://www.kaggle.com/zulfikarmuhammad/" target="_blank">
+        <div class="bar">
+          <img class="social-image" src="@/assets/icons/win95icons/social/kaggle.png" />
+          <u>K</u>aggle
+        </div>
+      </a>
+
+      <a href="/files/don_chia_resume.pdf" target="_self">
+        <div class="bar">
+          <img class="social-image" src="@/assets/icons/win95icons/text.png" />
+          <u>R</u>ésumé
+        </div>
+      </a>
+
+      <div class="divider"></div>
+
+      <a href="javascript:window.close();" target="_self">
+        <div class="bar">
+          <img class="social-image" src="@/assets/icons/win95icons/shutdown.png" />
+          <u>S</u>hut Down...
+        </div>
+      </a>
+
     </div>
   </div>
 </template>

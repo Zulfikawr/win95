@@ -9,7 +9,7 @@
       >
         <img
           class="icon-image"
-          :src="require('../assets/win95Icons/' + window.iconImage)"
+          :src="require('../assets/icons/win95icons/' + window.iconImage)"
           :alt="window.altText"
         />
         <div class="border">
@@ -51,7 +51,7 @@ export default {
       this.$store.commit("setWindowState", payload);
     },
     openGithub() {
-      window.open("https://github.com/DonChiaQE");
+      window.open("https://github.com/muhammad-zulfikar");
     },
   },
   mounted() {

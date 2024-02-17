@@ -23,7 +23,7 @@
     ></iframe>
     <form
       v-on:submit="sendEmail"
-      action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdRBqHB0Z6GOjwE3jniX8-fHfJK-WcyzNTmkPFg4fg2SYPwpA/formResponse"
+      action="https://docs.google.com/forms/d/e/1FAIpQLSdVq3Ago8IFjohupdHF78TtD_AoaW0GDW2L1cRoGcwQa6VvSg/formResponse"
       class="window"
       id="container"
       target="hidden_iframe"
@@ -84,7 +84,7 @@
       <div class="send-bar">
         <button type="submit" class="sent" style="z-index: 10">
           <span class="border">
-            <img src="@/assets/send.png" class="icon-image" />
+            <img src="@/assets/icons/win95icons/send.png" class="icon-image" />
             <p style="margin-top: 2px; color: black">Send</p>
           </span>
         </button>
@@ -95,7 +95,7 @@
           <hr />
           <div class="subject-container">
             <p style="margin: 8px">To:</p>
-            <div class="receipient">Don</div>
+            <div class="receipient">Zulfikar</div>
           </div>
           <hr />
           <div class="subject-container">

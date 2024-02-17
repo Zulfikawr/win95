@@ -32,7 +32,7 @@ export default new Vuex.Store({
         }, // Window Content Padding
         position: "absolute", // Window Position
         positionX: "25vw", // Window Position X (when first opened)
-        positionY: "7%", // Window Position Y (when first opened)
+        positionY: "5vh", // Window Position Y (when first opened)
         iconImage: "bio.png", // Window Icon Image
         altText: "Biography", // Window Icon Alt Text
         fullscreen: false, // Window Fullscreen State [true, false]
@@ -52,8 +52,8 @@ export default new Vuex.Store({
           left: "0",
         }, // Window Content Padding
         position: "absolute", // Window Position
-        positionX: "20vw", // Window Position X (when first opened)
-        positionY: "12%", // Window Position Y (when first opened)
+        positionX: "26.4vw", // Window Position X (when first opened)
+        positionY: ".5vh", // Window Position Y (when first opened)
         iconImage: "text.png", // Window Icon Image
         altText: "Résumé", // Window Icon Alt Text
         fullscreen: false, // Window Fullscreen State [true, false]
@@ -73,8 +73,8 @@ export default new Vuex.Store({
           left: null,
         },
         position: "absolute",
-        positionX: "4vw",
-        positionY: "12vh",
+        positionX: "25vw",
+        positionY: "5vh",
         iconImage: "directory.png",
         altText: "Projects",
         fullscreen: false,
@@ -94,8 +94,8 @@ export default new Vuex.Store({
           left: null,
         },
         position: "absolute",
-        positionX: "4vw",
-        positionY: "12vh",
+        positionX: "23.6vw",
+        positionY: "9.5vh",
         iconImage: "resume.png",
         altText: "Publications",
         fullscreen: false,
@@ -115,8 +115,8 @@ export default new Vuex.Store({
           left: "0",
         },
         position: "absolute",
-        positionX: "6vw",
-        positionY: "12vh",
+        positionX: "22.2vw",
+        positionY: "14vh",
         iconImage: "mail.png",
         altText: "Mail",
         fullscreen: false,

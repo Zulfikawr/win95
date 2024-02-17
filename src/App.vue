@@ -114,7 +114,6 @@ html {
     component themes (blueprint, windows, macos)
 \*------------------------------------------------------------*/
 import Navbar from "./components/windows/Navbar";
-// import TopNavbar from './components/macos/TopNavbar.vue'
 import Window from "./components/template/Window";
 import AppGrid from "./components/AppGrid";
 import FilesWindow from "./components/template/FilesWindow.vue";

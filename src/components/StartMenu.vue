@@ -1,7 +1,7 @@
 <template>
   <div class="menu" style="z-index: 1000000">
     <div class="sidebar">
-      <img class="sidebar-image" src="@/assets/sidebar-image.png" />
+      <img class="sidebar-image" src="@/assets/icons/win95icons/sidebar-image.png" />
     </div>
     <div class="socials">
 

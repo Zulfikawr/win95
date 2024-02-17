@@ -16,7 +16,7 @@
     ></iframe>
     <form
       v-on:submit="sendEmail"
-      action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdRBqHB0Z6GOjwE3jniX8-fHfJK-WcyzNTmkPFg4fg2SYPwpA/formResponse"
+      action="https://docs.google.com/forms/d/e/1FAIpQLSdVq3Ago8IFjohupdHF78TtD_AoaW0GDW2L1cRoGcwQa6VvSg/formResponse"
       class="window"
       id="container"
       :class="{
@@ -43,7 +43,7 @@
             align-items: center;
           "
         >
-          <img class="icon-image" src="../assets/win95Icons/mail.png" />New
+          <img class="icon-image" src="../assets/icons/win95icons/mail.png" />New
           Message
         </div>
         <div class="triple-button">

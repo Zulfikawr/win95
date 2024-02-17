@@ -18,7 +18,7 @@
             : 'container-border'
         "
       >
-        <img class="start-icon" src="@/assets/win95.png" />
+        <img class="start-icon" src="@/assets/icons/win95icons/win95.png" />
         <button style="padding-left: 3px; font-size: 0.9rem; font-weight: bold">
           Start
         </button>
@@ -55,7 +55,7 @@
     </div>
     <div class="spacer"></div>
     <div alt="time" class="time">
-      <img src="@/assets/speakers.png" class="icon-image" />
+      <img src="@/assets/icons/win95icons/speakers.png" class="icon-image" />
       <time>
         {{ time }}
       </time>
@@ -237,7 +237,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  font-size: 0.6em;
+  font-size: 0.7em;
 }
 
 @media only screen and (max-width: 700px) {

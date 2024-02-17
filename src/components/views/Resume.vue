@@ -9,7 +9,7 @@
         target="_blank"
       >
         <span style="display: flex" class="border">
-          <img src="@/assets/download.png" class="icon-image" />
+          <img src="@/assets/icons/win95icons/download.png" class="icon-image" />
           <p style="margin-top: 2px">Download</p>
         </span>
       </a>
@@ -21,7 +21,7 @@
         target="_blank"
       >
         <span style="display: flex" class="border">
-          <img src="@/assets/open.png" class="icon-image" />
+          <img src="@/assets/icons/win95icons/open.png" class="icon-image" />
           <p style="margin-top: 2px">Open In New Tab</p>
         </span>
       </a>

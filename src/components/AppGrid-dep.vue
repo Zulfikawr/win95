@@ -111,33 +111,6 @@ export default {
         this.$store.commit("zIndexIncrement", "bio");
       }, 1);
     },
-    openMail(e) {
-      e.stopPropagation();
-      this.$store.commit("toggleCloseMail", true);
-      this.$store.commit("toggleShownMail", true);
-      this.$store.commit("changeActiveWindow", "Mail");
-      setTimeout(() => {
-        this.$store.commit("zIndexIncrement", "mail");
-      }, 1);
-    },
-    openPhotos(e) {
-      e.stopPropagation();
-      this.$store.commit("toggleClosePhotos", true);
-      this.$store.commit("toggleShownPhotos", true);
-      this.$store.commit("changeActiveWindow", "Photos");
-      setTimeout(() => {
-        this.$store.commit("zIndexIncrement", "photos");
-      }, 1);
-    },
-    openNoss(e) {
-      e.stopPropagation();
-      this.$store.commit("toggleCloseNossaflex", true);
-      this.$store.commit("toggleShownNossaflex", true);
-      this.$store.commit("changeActiveWindow", "NOSSAFLEX");
-      setTimeout(() => {
-        this.$store.commit("zIndexIncrement", "noss");
-      }, 1);
-    },
     openResume(e) {
       e.stopPropagation();
       this.$store.commit("toggleCloseResume", true);
@@ -146,13 +119,32 @@ export default {
       setTimeout(() => {
         this.$store.commit("zIndexIncrement", "resume");
       }, 1);
+    },
+    openProjectss(e) {
+      e.stopPropagation();
+      this.$store.commit("toggleCloseProjectss", true);
+      this.$store.commit("toggleShownProjects", true);
+      this.$store.commit("changeActiveWindow", "Projects");
+      setTimeout(() => {
+        this.$store.commit("zIndexIncrement", "projects");
+      }, 1);
+    },
     openPublications(e) {
       e.stopPropagation();
       this.$store.commit("toggleClosePublications", true);
-      this.$store.commit("toggleShownPublicationa", true);
+      this.$store.commit("toggleShownPublications", true);
       this.$store.commit("changeActiveWindow", "Publications");
       setTimeout(() => {
         this.$store.commit("zIndexIncrement", "publications");
+      }, 1);
+    },
+    openMail(e) {
+      e.stopPropagation();
+      this.$store.commit("toggleCloseMail", true);
+      this.$store.commit("toggleShownMail", true);
+      this.$store.commit("changeActiveWindow", "Mail");
+      setTimeout(() => {
+        this.$store.commit("zIndexIncrement", "mail");
       }, 1);
     },
   },

@@ -75,7 +75,7 @@
         data analytics projects. My goal is to bring together Data and International Relations 
         to make a positive impact in those fields. I want to create positive changes and improve 
         understanding between nations.
-      </p>
+      </p> <br> <br>
     </div>
 
     <hr>
@@ -94,7 +94,7 @@
         This prepared me well for a future career in international relations. Being part of "Himpunan 
         Mahasiswa Hubungan Internasional UPNVJ" was also a great experience. I made friends, learned 
         leadership and organizations skills, and participated in activities that helped me understand 
-        Rnternational Relations even better.
+        International Relations even better.
       </p>
       <br> <br>
 
@@ -113,6 +113,7 @@
         Interestingly, while excelling in language and communication, my favorite subject, and the one 
         where I achieved my highest score, was actually math, which highlight my diverse academic interests.
       </p>
+      <br> <br>
 
     </div>
 
@@ -140,7 +141,9 @@
         - Analyzed trial stores against controls.<br>
         - Used Python for data analysis and visualization and summarise findings and provide recommendations.<br>
         - Used the Pyramid Principles framework for structuring the report.<br>
-        - Created a report that incorporates data visualizations, key insights, and recommendations.
+        - Created a report that incorporates data visualizations, key insights, and recommendations.<br> <br>
+        
+        Click <a href="#">here</a> to see my full reports.
       </p>
 
       <br> <br>
@@ -148,28 +151,61 @@
       <b> Data Scientist - IDX Partners </b>
       <p class="paragraph">
         December 2023 <br> <br>
-        I participated in IDX Partners x Rakamin Academy Virtual Internship, and it was incredibly 
-        useful to understand what it might be like to participate on a data analyst team at Quantium.
-        I worked on a project to conduct analyses on a client's transaction dataset and
-        identify customer purchasing behaviours to generate insights and provide
-        commercial recommendations. I used Python and built my Data Visualisation in PowerBI.
+        I participated in the IDX Partners x Rakamin Academy Virtual Internship as a Data Scientist for one 
+        month. During that time, I learned data science methodology and was challenged to master and implement 
+        various skills and tools commonly used at IDX Partners, such as Big Data Fundamentals, Statistics 
+        & Data Analytics, SQL Querying, R Programming, Python Programming, Machine Learning, and others.
+
         <br> <br>
 
-        My responsibilities in this internship included:
-        <br> <br>
+        As the final task of my internship as a Data Scientist at IDX Partners, I was involved in a project 
+        with a lending company. I collaborated with various departments on this project to provide 
+        technological solutions for the company. My assignment was to build a model capable of predicting 
+        credit risk using a dataset provided by the company, consisting of both accepted and rejected loan 
+        data. Additionally, I needed to prepare visual media to present the solution to the client. 
+        I ensured that the visual media I created was clear, easily readable, and communicative. 
+        The end-to-end solution development was done in my programming language of choice while adhering 
+        to the Data Science framework/methodology.
 
-        - Analyzed transaction and customer data to identify trends and inconsistencies.<br>
-        - Developed metrics and examine sales drivers to gain insights into overall sales performance. <br>
-        - Created visualizations and prepare findings to formulate a clear recommendation for the client's strategy.<br>
-        - Defined metrics to select control stores.<br>
-        - Analyzed trial stores against controls.<br>
-        - Used Python for data analysis and visualization and summarise findings and provide recommendations.<br>
-        - Used the Pyramid Principles framework for structuring the report.<br>
-        - Created a report that incorporates data visualizations, key insights, and recommendations.
+        <br> <br>
+        
+        My responsibilities during the IDX Partners x Rakamin Academy Virtual Internship as a Data Scientist included: <br> <br>
+        
+        - Applying data science methodology to analyze transaction and customer data, identifying trends and inconsistencies.<br>
+        - Mastering and implementing various skills and tools, such as Big Data Fundamentals, Statistics & Data Analytics, SQL Querying, R Programming, Python Programming, Machine Learning, and more.<br>
+        - Collaborating with different departments in a lending company project to provide technological solutions.<br>
+        - Building a predictive credit risk model using a dataset containing both accepted and rejected loan data.<br>
+        - Preparing visual media to effectively present the developed solution to the client.<br>
+        - Ensuring clarity, readability, and communicativeness in the visual media created.<br>
+        - Developing the end-to-end solution using my programming language of choice within the Data Science framework/methodology.<br>
+      </p>
+
+      <br> <br>
+
+      <b> Data Collector - SMRC (Saiful Mujani Research and Consulting) </b>
+      <p class="paragraph">
+        October 2023 - December 2023 <br> <br>
+        Working as a data collector at SMRC, the national political survey organization, provided me 
+        with valuable insights into the field research process. Part of my responsibilities included 
+        obtaining the necessary permits from local authorities at various administrative levels, such 
+        as subdistrict, urban village, RW, and RT, to ensure smooth survey operations in designated 
+        areas. Additionally, I conducted face-to-face interviews with ten individuals every week to 
+        gather their perspectives on their political subjectivity. After collecting this information, 
+        I carefully converted it into digital data, ensuring accuracy and ease of analysis. Through 
+        this experience, I developed my communication skills while gaining firsthand knowledge of the 
+        crucial role data collection plays in informing political research and decision-making processes.
       </p>
 
       <br> <br>
     </div>
+
+    <hr>
+
+    <div class="inner-content">
+      <h3 class="heading"><b>Skills</b></h3><br>
+    </div>
+
+    <hr>
 
     <div class="inner-content">
       <h3 class="heading"><b>Résumé</b></h3>

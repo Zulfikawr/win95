@@ -86,7 +86,7 @@
       <div class="send-bar">
         <button type="submit" class="sent" style="z-index: 10">
           <span style="display: flex" class="border">
-            <img src="../assets/send.png" class="icon-image" />
+            <img src="../assets/icons/win95icons/send.png" class="icon-image" />
             <div style="margin-top: 2px">Send</div>
           </span>
         </button>
@@ -98,13 +98,13 @@
             <hr />
             <div class="subject-container">
               <p style="margin: 8px">To:</p>
-              <div class="receipient">Don</div>
+              <div class="receipient">Zulfikar</div>
             </div>
             <hr />
             <div class="subject-container">
               <p style="margin: 8px">Subject:</p>
               <input
-                name="entry.609946071"
+                name="entry.210174588"
                 class="subject"
                 v-model="mailSubject"
                 v-on:input="onChangeMailSubject"
@@ -116,7 +116,7 @@
             <div class="from-container" style="margin-bottom: 8px">
               <p style="margin: 8px">From:</p>
               <input
-                name="entry.367924729"
+                name="entry.1050643844"
                 class="subject"
                 v-model="mailSender"
                 v-on:input="onChangeMailSender"
@@ -128,7 +128,7 @@
 
           <textarea
             :class="{ textareaFullscreen: $store.getters.isFullscreenMail }"
-            name="entry.863594021"
+            name="entry.2029061206"
             v-model="mailContent"
             v-on:input="onChangeMailContent"
             required="true"

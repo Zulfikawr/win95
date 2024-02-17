@@ -34,18 +34,7 @@
         identify customer purchasing behaviours to generate insights and provide
         commercial recommendations. I used Python and built my Data Visualisation in PowerBI. 
         <br> <br>
-
-        My responsibilities in this project included:
-        <br> <br>
-
-        - Analyzed transaction and customer data to identify trends and inconsistencies.<br>
-        - Developed metrics and examine sales drivers to gain insights into overall sales performance. <br>
-        - Created visualizations and prepare findings to formulate a clear recommendation for the client's strategy.<br>
-        - Defined metrics to select control stores.<br>
-        - Analyzed trial stores against controls.<br>
-        - Used Python for data analysis and visualization and summarise findings and provide recommendations.<br>
-        - Used the Pyramid Principles framework for structuring the report.<br>
-        - Created a report that incorporates data visualizations, key insights, and recommendations.
+        Full reports available on this <a href="#">link</a>.
       </p> <br>
     </div>
 

@@ -9,15 +9,24 @@
     <div class="inner-content">
       <h3 class="heading"><b>Publications</b></h3>
       <p class="paragraph">
-        A complete lists of my academic papers, articles, and publications.
+        A complete lists of my academic papers, articles, journals, and publications.
       </p>
     </div>
 
+    <hr>
+
     <div class="inner-content">
-      <h3 class="heading"><b>2023</b></h3>
+      <h3 class="heading"><b>2023</b></h3> <br>
+      <img
+        src="@/assets/Publications/palestine.jpg"
+        alt="Publications"
+        class="hero"
+      />
       <p class="paragraph">
         <a href="https://medium.com/@2110412039/konflik-panjang-palestina-israel-dan-restrukturisasi-dk-pbb-35fc1a14a18b" target="_blank">
-          <b>Konflik Panjang Palestina-Israel dan Restrukturisasi DK PBB</b>
+          <center>
+            <b>Konflik Panjang Palestina-Israel dan Restrukturisasi DK PBB</b>
+          </center>
         </a> <br> <br>
         Language: Indonesian <br> <br>
         Tags: Humanitarian Law, Conflict, UNSC, Keamanan Global <br> <br>
@@ -30,11 +39,18 @@
         oleh Israel minim. Panggilan untuk reformasi dalam sistem PBB tetap berlanjut, dengan tujuan utama 
         mengakhiri penderitaan panjang rakyat Palestina dan membentuk perdamaian yang langgeng, tanpa 
         memandang keterlibatan Dewan Keamanan.
-      </p> <br>
+      </p> <br> <br>
 
+      <img
+        src="@/assets/Publications/haze.jpg"
+        alt="Publications"
+        class="hero"
+      />
       <p class="paragraph">
         <a href="https://drive.google.com/file/d/1HacCQxrMD6BF-KPvgTs04wySjd1A2O8j/view?usp=drive_link" target="_blank">
-          <b>Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara</b>
+          <center>
+            <b>Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara</b>
+          </center>
         </a> <br> <br>
         Language: Indonesian <br> <br>
         Tags: Diplomasi, Lingkungan, Kebijakan Luar Negeri, Indonesia, SBY <br> <br>
@@ -50,9 +66,16 @@
         selanjutnya.
       </p> <br>
 
+      <img
+        src="@/assets/Publications/digitalization.jpg"
+        alt="Publications"
+        class="hero"
+      />
       <p class="paragraph">
         <a href="https://drive.google.com/file/d/16AyiycAvmZmc2YKN8wPlvkbatkPcqbQ5/view?usp=drive_link" target="_blank">
-          <b>Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi</b>
+          <center>
+            <b>Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi</b>
+          </center>
         </a> <br> <br>
         Language: Indonesian <br> <br>
         Tags: Digitalisasi, Diplomasi Digital, Kebijakan Luar Negeri, Soft Power <br> <br>
@@ -66,9 +89,16 @@
         power konvensionalnya ke ranah digital.
       </p> <br>
 
+      <img
+        src="@/assets/Publications/russia_invasion.jpg"
+        alt="Publications"
+        class="hero"
+      />
       <p class="paragraph">
         <a href="https://drive.google.com/file/d/1TlRUMkK2m3GK6vY4fVX2B-mO_3YrOQ8D/view?usp=drive_link" target="_blank">
-          <b>Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional</b>
+          <center>
+            <b>Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional</b>
+          </center>
         </a> <br> <br>
         Language: Indonesian <br> <br>
         Tags: Hukum Internasional, Invasi, Rusia, Ukraina <br> <br>
@@ -82,11 +112,18 @@
         perang dalam hukum humaniter. Meskipun hukum internasional penting dalam menangani konflik ini, 
         penerapannya masih lemah. Masyarakat internasional perlu terus mengecam tindakan Rusia dan 
         menuntut agar Rusia segera menghentikan invasi dan menarik pasukan militernya dari Ukraina.
-      </p> <br>      
+      </p> <br>  
 
+      <img
+        src="@/assets/Publications/cybersecurity.jpg"
+        alt="Publications"
+        class="hero"
+      />
       <p class="paragraph">
         <a href="https://medium.com/@2110412039/the-importance-of-security-training-for-employees-a-case-study-analysis-of-security-incidents-adf70a4b5d27" target="_blank">
-          <b>The Importance of Security Training for Employees: A Case Study Analysis of Security Incidents Caused by Knowledge Deficiencies</b>
+          <center>
+            <b>The Importance of Security Training: A Case Study Analysis of Security Incidents Caused by Knowledge Deficiencies</b>
+          </center>
         </a> <br> <br>
         Language: English <br> <br>
         Tags: Cybersecurity, Cyberattacks, COVID-19 Study Case <br> <br>
@@ -103,11 +140,20 @@
       </p>
     </div>
 
+    <hr>
+
     <div class="inner-content">
       <h3 class="heading"><b>2022</b></h3>
+      <img
+        src="@/assets/Publications/rma_china.jpg"
+        alt="Publications"
+        class="hero"
+      />
       <p class="paragraph">
         <a href="https://medium.com/@2110412039/revolution-in-military-affairs-kebangkitan-dan-revolusi-china-dalam-militer-dan-ekonomi-yang-9d3122af8dcf" target="_blank">
-          <b>Revolution in Military Affairs: Kebangkitan dan Revolusi China dalam Militer dan Ekonomi yang mengancam Amerika Serikat</b>
+          <center>
+            <b>Revolution in Military Affairs: Kebangkitan dan Revolusi China dalam Militer dan Ekonomi yang mengancam Amerika Serikat</b>
+          </center>
         </a> <br> <br>
         Language: Indonesian <br> <br>
         Tags: RMA, China, Amerika Serikat, Hubungan Internasional <br> <br>
@@ -118,8 +164,84 @@
         ketergantungan impor teknologi, telah meningkatkan kepercayaan diri negara tersebut dalam 
         melindungi kepentingan nasionalnya. AS perlu memperkuat kerja sama pertahanan dengan sekutu-sekutunya 
         di kawasan untuk mengimbangi ambisi China yang terus meningkat.
+      </p> <br>
+
+      <img
+        src="@/assets/Publications/leadership_communication.jpg"
+        alt="Publications"
+        class="hero"
+      />
+      <p class="paragraph">
+        <a href="https://drive.google.com/file/d/1IgvU3kCKvwZTdWEohP3yc5aAvJv7VYzD/view?usp=drive_link" target="_blank">
+          <center>
+            <b>Makalah - Komunikasi Kepemimpinan</b>
+          </center>
+        </a> <br> <br>
+        Language: Indonesian <br> <br>
+        Tags: Leadership, Communication <br> <br>
+        Abstract: Komunikasi kepemimpinan merupakan aspek penting dalam organisasi, di mana gaya 
+        komunikasi yang diterapkan pemimpin dapat memengaruhi efektivitas organisasi dalam mencapai 
+        tujuannya. Manfaat komunikasi kepemimpinan meliputi peningkatan alur informasi, fungsi persuasif, 
+        dan integrasi komunikasi. Pentingnya komunikasi kepemimpinan terletak pada kemampuannya untuk 
+        membantu pemimpin dalam membimbing, membangun institusi yang inovatif, menjadi sumber motivasi, 
+        dan menentukan gaya komunikasi ideal untuk mencapai tujuan organisasi. Berbagai gaya komunikasi 
+        kepemimpinan, seperti controlling style, equalitarian style, structuring style, dynamic style, 
+        relinquishing style, dan withdrawal style, memiliki karakteristik dan efektivitasnya masing-masing. 
+        Dengan memahami dan menerapkan komunikasi kepemimpinan yang efektif, pemimpin dapat meningkatkan 
+        kinerja dan mencapai tujuan organisasi.
       </p>
-    </div>    
+    </div>
+
+    <hr>
+
+    <div class="inner-content">
+      <h3 class="heading"><b>2021</b></h3>
+
+      <img
+        src="@/assets/Publications/terrorism_bali.jpg"
+        alt="Publications"
+        class="hero"
+      />
+      <p class="paragraph">
+        <a href="https://drive.google.com/file/d/1kZUXtfVY3BzvQFO-nq_PN9YUJQLfRzqU/view?usp=drive_link" target="_blank">
+          <center>
+            <b>Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali)</b>
+          </center>
+        </a> <br> <br>
+        Language: Indonesian <br> <br>
+        Tags: ASEAN, Human Security, Terorisme <br> <br>
+        Abstract: Terorisme merupakan ancaman serius bagi keamanan manusia di Asia Tenggara. ASEAN 
+        telah menunjukkan komitmennya dalam memerangi terorisme dengan membentuk berbagai kelompok 
+        kerja dan regulasi, seperti ASEAN Ministerial Meeting on Transnational Crime (AMMTC), ASEAN 
+        Political-Security Community (APSC), Asean Convention on Counter Terrorism (ACCT), dan ASEAN 
+        Regional Forum (ARF). Upaya ini bertujuan untuk meningkatkan kesadaran, koordinasi, dan 
+        kerjasama antarnegara dalam menangani terorisme, serta memperkuat fondasi keamanan manusia 
+        di kawasan ini.
+      </p> <br>
+
+      <img
+        src="@/assets/Publications/instagram.jpg"
+        alt="Publications"
+        class="hero"
+      />
+      <p class="paragraph">
+        <a href="https://drive.google.com/file/d/11fhoaUxheGccLUhsBpU2NdL3lm6Ddr8D/view?usp=drive_link" target="_blank">
+          <center>
+            <b>Pengaruh Penggunaan Sosial Media Instagram terhadap Perilaku Remaja</b>
+          </center>
+        </a> <br> <br>
+        Language: Indonesian <br> <br>
+        Tags: Social Meadia, Instagram, Perilaku, Remaja <br> <br>
+        Abstract: Perkembangan teknologi komunikasi dan informasi, khususnya Instagram, membawa 
+        perubahan signifikan pada pola perilaku dan kehidupan remaja. Penelitian ini bertujuan 
+        untuk mengetahui pengaruh Instagram terhadap perilaku remaja, baik dampak positif maupun 
+        negatif. Metode kualitatif deskriptif dengan kuesioner digunakan untuk mengumpulkan data 
+        dari remaja usia 17-23 tahun. Hasil penelitian menunjukkan bahwa Instagram dapat memengaruhi 
+        perilaku remaja, tergantung pada cara penggunaannya. Penelitian ini penting untuk memahami dampak Instagram pada remaja dan membantu mereka menggunakannya secara bertanggung jawab.
+      </p>
+
+    </div>
+
   </div>
 </template>
 
@@ -164,4 +286,9 @@ h3 {
   margin: 0;
   padding: 0;
 }
+
+p {
+  text-align: justify;
+}
+
 </style>

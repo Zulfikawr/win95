@@ -5,7 +5,7 @@
       <h4 class="subtitle" style="padding-bottom: 10px">
         Data Analyst | Quantitative Research | International Relations
       </h4>
-      <h4 class="subtitle">Jakarta</h4>
+      <h4 class="subtitle">Jakarta, Indonesia</h4>
 
 
     <div class="badge-grid">
@@ -60,11 +60,11 @@
     </div>
     </center>
 
-    <hr>
+    <br> <hr>
 
     <div class="inner-content">
       <h3 class="heading"><b>About Me</b></h3>
-      <p class="paragraph" style="text-align: justify;">
+      <p class="paragraph">
         Hello there! I'm Zulfikar from Jakarta, a 20-year-old student with a passion 
         for both International Relations and Data Analytics. Currently, I am in my 4th semester 
         at Universitas Pembangunan Nasional Veteran Jakarta.
@@ -75,18 +75,17 @@
         data analytics projects. My goal is to bring together Data and International Relations 
         to make a positive impact in those fields. I want to create positive changes and improve 
         understanding between nations.
-      </p> <br> <br>
+      </p> <br>
     </div>
 
     <hr>
 
     <div class="inner-content">
-      <h3 class="heading"><b>Educations</b></h3><br>
-      <b>"Universitas Pembangunan Nasional Veteran Jakarta"</b>
+      <h3 class="heading"><b>Educations</b></h3>
       <p class="paragraph">
-        - 2021 - Present <br>
-        - Major: International Relations <br>
-        - GPA: 3.71 / 4.00
+        <b>Universitas Pembangunan Nasional Veteran Jakarta</b><br>
+        International Relations <span class="year">2021 - Present</span><br>
+        <li>GPA: 3.71 / 4.00</li>
       </p>
       <p class="paragraph">
         My studies at International Relations UPNVJ were both challenging and rewarding. 
@@ -95,14 +94,12 @@
         Mahasiswa Hubungan Internasional UPNVJ" was also a great experience. I made friends, learned 
         leadership and organizations skills, and participated in activities that helped me understand 
         International Relations even better.
-      </p>
-      <br> <br>
+      </p><br>
 
-      <b>"Madrasah Aliyah Negeri 2 Jakarta"</b>
       <p class="paragraph">
-        - 2018 - 2021 <br>
-        - Major: Languages and Communications <br>
-        - GPA: 88.4 / 100
+        <b>Madrasah Aliyah Negeri 2 Jakarta</b> <br>
+        Languages and Communications <span class="year">2018 - 2021</span><br>
+        <li>GPA: 88.4 / 100</li>
       </p>
       <p class="paragraph">
         My high school experience at MAN 2 Jakarta was focused on foreign languages and communications. 
@@ -112,18 +109,19 @@
         I consistently performed well academically, even ranking at the top of my class. 
         Interestingly, while excelling in language and communication, my favorite subject, and the one 
         where I achieved my highest score, was actually math, which highlight my diverse academic interests.
-      </p>
-      <br> <br>
+      </p> <br>
 
     </div>
 
     <hr>
 
     <div class="inner-content">
-      <h3 class="heading"><b>Experiences</b></h3><br>
-      <b> Data Analyst - Quantium </b>
+      <h3 class="heading"><b> Experiences </b></h3>
       <p class="paragraph">
-        December 2023 - February 2024 <br> <br>
+        <b> Quantium | Data Science & AI </b><br>
+        Data Analyst <span class="year">Dec 2023 - Feb 2024</span><br>
+      </p>
+      <p class="paragraph">
         I recently participated in Quantium's Virtual Internship, and it was incredibly useful 
         to understand what it might be like to participate on a data analyst team at Quantium.
         I worked on a tasks to conduct analyses on a client's transaction dataset and
@@ -141,16 +139,14 @@
         - Analyzed trial stores against controls.<br>
         - Used Python for data analysis and visualization and summarise findings and provide recommendations.<br>
         - Used the Pyramid Principles framework for structuring the report.<br>
-        - Created a report that incorporates data visualizations, key insights, and recommendations.<br> <br>
-        
-        Click <a href="#">here</a> to see my full reports.
-      </p>
+        - Created a report that incorporates data visualizations, key insights, and recommendations.
+      </p> <br>
 
-      <br> <br>
-
-      <b> Data Scientist - IDX Partners </b>
       <p class="paragraph">
-        December 2023 <br> <br>
+        <b> IDX Partners x Rakamin Academy </b> <br>
+        Data Scientist <span class="year">Dec 2023</span>
+      </p>
+      <p class="paragraph">
         I participated in the IDX Partners x Rakamin Academy Virtual Internship as a Data Scientist for one 
         month. During that time, I learned data science methodology and was challenged to master and implement 
         various skills and tools commonly used at IDX Partners, such as Big Data Fundamentals, Statistics 
@@ -178,31 +174,44 @@
         - Preparing visual media to effectively present the developed solution to the client.<br>
         - Ensuring clarity, readability, and communicativeness in the visual media created.<br>
         - Developing the end-to-end solution using my programming language of choice within the Data Science framework/methodology.<br>
-      </p>
+      </p> <br>
 
-      <br> <br>
-
-      <b> Data Collector - SMRC (Saiful Mujani Research and Consulting) </b>
       <p class="paragraph">
-        October 2023 - December 2023 <br> <br>
+        <b> SMRC (Saiful Mujani Research and Consulting) </b> <br>
+        Data Collector <span class="year"> Nov 2023 </span>
+      </p>
+      <p class="paragraph">
         Working as a data collector at SMRC, the national political survey organization, provided me 
         with valuable insights into the field research process. Part of my responsibilities included 
         obtaining the necessary permits from local authorities at various administrative levels, such 
-        as subdistrict, urban village, RW, and RT, to ensure smooth survey operations in designated 
+        as subdistrict, urban village, Hamlet, and Neighborhood, to ensure smooth survey operations in designated 
         areas. Additionally, I conducted face-to-face interviews with ten individuals every week to 
         gather their perspectives on their political subjectivity. After collecting this information, 
         I carefully converted it into digital data, ensuring accuracy and ease of analysis. Through 
         this experience, I developed my communication skills while gaining firsthand knowledge of the 
         crucial role data collection plays in informing political research and decision-making processes.
-      </p>
-
-      <br> <br>
+      </p> <br>
     </div>
 
     <hr>
 
     <div class="inner-content">
-      <h3 class="heading"><b>Skills</b></h3><br>
+      <h3 class="heading"><b>Skills</b></h3>
+      <p class="paragraph">
+        As a student interested in global issues and data science, I have worked hard to build many different 
+        skills. It all started with learning basic office tools like Microsoft Office 365 and Google Workspace. 
+        These tools helped me work well with others and manage documents easily. After that, I got really 
+        interested in data analysis. I learned how to use Excel, Python, R, and SQL (Microsoft SQL Server, 
+        Google BigQuery, MySQL) to find important information in large datasets and see patterns. <br> <br>
+        To make these insights easier to understand, I learned how to create visualizations using tools like 
+        Matplotlib, Power BI, Tableau, and Google Looker Studio. With each visualization, I learned how to 
+        communicate complex information in a clear and interesting way, using eye-catching visuals to explain 
+        the data. During this process, I also developed important soft skills, like analytical thinking, 
+        communication, problem-solving, time management, teamwork, and presentation and interview skills. 
+        These abilities helped me deal with challenges, work well with others, and explain my ideas clearly 
+        and confidently. As I continue to learn and grow, I am excited to use my technical and personal skills 
+        to contribute to interesting projects that help us understand the world better.
+      </p> <br>
     </div>
 
     <hr>
@@ -211,7 +220,7 @@
       <h3 class="heading"><b>Résumé</b></h3>
       <a
         style="color: #ff5733"
-        href="/files/don_chia_resume.pdf"
+        href="/files/resume.pdf"
         class="paragraph"
         >Check out my résumé here.</a
       >
@@ -268,6 +277,17 @@ h3 {
 
 p {
   text-align: justify;
+  font-size: 15px;
+}
+.year {
+  float: right;
+  font-size: 15px;
+}
+
+li {
+  list-style: square;
+  padding-top: 10px;
+  font-size: 15px;
 }
 
 </style>

@@ -5,32 +5,27 @@
       alt="Publications"
       class="hero"
     />
-
     <div class="inner-content">
-      <h3 class="heading"><b>Publications</b></h3>
-      <p class="paragraph">
-        A complete lists of my academic papers, articles, journals, and publications.
-      </p>
+        <h3 class="title">
+          Publications
+        </h3>
+        <h4 class="subtitle">
+          A complete lists of my academic papers, articles, journals, and publications.
+        </h4>
     </div>
 
     <hr>
 
     <div class="inner-content">
-      <h3 class="heading"><b>2023</b></h3> <br>
-      <img
-        src="@/assets/Publications/palestine.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <h3 class="year"> 2023 </h3>
+      
+      <a href="https://medium.com/@2110412039/konflik-panjang-palestina-israel-dan-restrukturisasi-dk-pbb-35fc1a14a18b" target="_blank" class="publication-link">
+        Konflik Panjang Palestina-Israel dan Restrukturisasi DK PBB
+        <img src="@/assets/Publications/palestine.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> Humanitarian Law, Conflict, UNSC, Keamanan Global </h4>
       <p class="paragraph">
-        <a href="https://medium.com/@2110412039/konflik-panjang-palestina-israel-dan-restrukturisasi-dk-pbb-35fc1a14a18b" target="_blank">
-          <center>
-            <b>Konflik Panjang Palestina-Israel dan Restrukturisasi DK PBB</b>
-          </center>
-        </a> <br> <br>
-        Language: Indonesian <br> <br>
-        Tags: Humanitarian Law, Conflict, UNSC, Keamanan Global <br> <br>
-        Abstract: Konflik Israel-Palestina, bermula dari peristiwa tahun 1948, telah berkembang menjadi 
+        Konflik Palestina-Israel, bermula dari peristiwa tahun 1948, telah berkembang menjadi 
         krisis multiaspek yang ditandai oleh pengusiran massal, tantangan kemanusiaan, dan kejahatan 
         perang yang dilakukan oleh Israel, khususnya di Gaza. Keterbatasan respons internasional, 
         terutama struktur Dewan Keamanan Perserikatan Bangsa-Bangsa dan penggunaan hak veto, menghambat 
@@ -41,20 +36,13 @@
         memandang keterlibatan Dewan Keamanan.
       </p> <br> <br>
 
-      <img
-        src="@/assets/Publications/haze.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <a href="https://drive.google.com/file/d/1HacCQxrMD6BF-KPvgTs04wySjd1A2O8j/view?usp=drive_link" target="_blank" class="publication-link">
+        Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara
+        <img src="@/assets/Publications/haze.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> Diplomasi, Lingkungan, Kebijakan Luar Negeri, Indonesia, SBY </h4>
       <p class="paragraph">
-        <a href="https://drive.google.com/file/d/1HacCQxrMD6BF-KPvgTs04wySjd1A2O8j/view?usp=drive_link" target="_blank">
-          <center>
-            <b>Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara</b>
-          </center>
-        </a> <br> <br>
-        Language: Indonesian <br> <br>
-        Tags: Diplomasi, Lingkungan, Kebijakan Luar Negeri, Indonesia, SBY <br> <br>
-        Abstract: Diplomasi lingkungan Indonesia di era SBY mengalami dinamika dalam menangani kabut asap 
+        Diplomasi lingkungan Indonesia di era SBY mengalami dinamika dalam menangani kabut asap 
         lintas batas. Kebakaran hutan dan lahan di Indonesia menyebabkan kabut asap yang berdampak pada 
         negara tetangga, memicu ketegangan diplomatik. SBY menunjukkan respon aktif dengan mengerahkan 
         sumber daya, meminta maaf, dan meratifikasi AATHP. Di tingkat global, Indonesia aktif dalam forum 
@@ -64,22 +52,15 @@
         terhadap pelestarian lingkungan dan diplomasi yang proaktif. Meskipun terdapat kekurangan, 
         diplomasi lingkungan di era SBY telah menunjukkan kemajuan dan menjadi landasan bagi upaya-upaya 
         selanjutnya.
-      </p> <br>
+      </p> <br> <br>
 
-      <img
-        src="@/assets/Publications/digitalization.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <a href="https://drive.google.com/file/d/16AyiycAvmZmc2YKN8wPlvkbatkPcqbQ5/view?usp=drive_link" target="_blank" class="publication-link">
+        Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi
+        <img src="@/assets/Publications/digitalization.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> Digitalisasi, Diplomasi Digital, Kebijakan Luar Negeri, Soft Power </h4>
       <p class="paragraph">
-        <a href="https://drive.google.com/file/d/16AyiycAvmZmc2YKN8wPlvkbatkPcqbQ5/view?usp=drive_link" target="_blank">
-          <center>
-            <b>Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi</b>
-          </center>
-        </a> <br> <br>
-        Language: Indonesian <br> <br>
-        Tags: Digitalisasi, Diplomasi Digital, Kebijakan Luar Negeri, Soft Power <br> <br>
-        Abstract: Di era globalisasi, digitalisasi menjadi pendorong utama soft power negara. 
+        Di era globalisasi, digitalisasi menjadi pendorong utama soft power negara. 
         Media sosial dan platform digital memperluas jangkauan pengaruh budaya, nilai-nilai, dan 
         kebijakan luar negeri suatu negara. Negara-negara seperti Korea Selatan dan China telah 
         memanfaatkan digitalisasi untuk meningkatkan citra dan pengaruhnya di dunia. Diplomasi digital 
@@ -87,22 +68,15 @@
         dan media digital secara signifikan mempercepat dan memperluas jangkauan soft power negara. 
         Negara yang ingin meningkatkan pengaruhnya di kancah global harus mengadaptasi instrumen soft 
         power konvensionalnya ke ranah digital.
-      </p> <br>
+      </p> <br> <br>
 
-      <img
-        src="@/assets/Publications/russia_invasion.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <a href="https://drive.google.com/file/d/1TlRUMkK2m3GK6vY4fVX2B-mO_3YrOQ8D/view?usp=drive_link" target="_blank" class="publication-link">
+        Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional
+        <img src="@/assets/Publications/russia_invasion.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> Hukum Internasional, Invasi, Rusia, Ukraina </h4>
       <p class="paragraph">
-        <a href="https://drive.google.com/file/d/1TlRUMkK2m3GK6vY4fVX2B-mO_3YrOQ8D/view?usp=drive_link" target="_blank">
-          <center>
-            <b>Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional</b>
-          </center>
-        </a> <br> <br>
-        Language: Indonesian <br> <br>
-        Tags: Hukum Internasional, Invasi, Rusia, Ukraina <br> <br>
-        Abstract: Invasi Rusia ke Ukraina pada tahun 2022 merupakan pelanggaran serius terhadap hukum 
+        Invasi Rusia ke Ukraina pada tahun 2022 merupakan pelanggaran serius terhadap hukum 
         internasional. Tindakan ini tidak memiliki pembenaran dan merupakan penggunaan kekuatan dan 
         kekerasan yang ilegal, serta merupakan aksi agresi. Alasan Rusia untuk melakukan invasi, seperti 
         menjaga keamanan negara dan penduduknya dari ancaman NATO, tidak dapat diterima berdasarkan hukum 
@@ -112,22 +86,15 @@
         perang dalam hukum humaniter. Meskipun hukum internasional penting dalam menangani konflik ini, 
         penerapannya masih lemah. Masyarakat internasional perlu terus mengecam tindakan Rusia dan 
         menuntut agar Rusia segera menghentikan invasi dan menarik pasukan militernya dari Ukraina.
-      </p> <br>  
+      </p> <br> <br>
 
-      <img
-        src="@/assets/Publications/cybersecurity.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <a href="https://medium.com/@2110412039/the-importance-of-security-training-for-employees-a-case-study-analysis-of-security-incidents-adf70a4b5d27" target="_blank" class="publication-link">
+        The Importance of Security Training: A Case Study Analysis of Security Incidents Caused by Knowledge Deficiencies
+        <img src="@/assets/Publications/cybersecurity.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> Cybersecurity, Cyberattacks, COVID-19 Study Case </h4>
       <p class="paragraph">
-        <a href="https://medium.com/@2110412039/the-importance-of-security-training-for-employees-a-case-study-analysis-of-security-incidents-adf70a4b5d27" target="_blank">
-          <center>
-            <b>The Importance of Security Training: A Case Study Analysis of Security Incidents Caused by Knowledge Deficiencies</b>
-          </center>
-        </a> <br> <br>
-        Language: English <br> <br>
-        Tags: Cybersecurity, Cyberattacks, COVID-19 Study Case <br> <br>
-        Abstract: Information security stands as a critical pillar for business continuity in today's 
+        Information security stands as a critical pillar for business continuity in today's 
         digital landscape, yet individuals, often the weakest link, remain susceptible to cyberattacks. 
         This article explores the imperative of safety training for employees by examining cases of safety
         accidents resulting from a lack of knowledge. Using the WannaCry ransomware attack as a poignant 
@@ -143,43 +110,32 @@
     <hr>
 
     <div class="inner-content">
-      <h3 class="heading"><b>2022</b></h3>
-      <img
-        src="@/assets/Publications/rma_china.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <h3 class="year">
+        2022
+      </h3>
+
+      <a href="https://medium.com/@2110412039/revolution-in-military-affairs-kebangkitan-dan-revolusi-china-dalam-militer-dan-ekonomi-yang-9d3122af8dcf" target="_blank" class="publication-link">
+        Revolution in Military Affairs: Kebangkitan dan Revolusi China dalam Militer dan Ekonomi yang mengancam Amerika Serikat
+        <img src="@/assets/Publications/rma_china.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> RMA, China, Amerika Serikat, Hubungan Internasional </h4>
       <p class="paragraph">
-        <a href="https://medium.com/@2110412039/revolution-in-military-affairs-kebangkitan-dan-revolusi-china-dalam-militer-dan-ekonomi-yang-9d3122af8dcf" target="_blank">
-          <center>
-            <b>Revolution in Military Affairs: Kebangkitan dan Revolusi China dalam Militer dan Ekonomi yang mengancam Amerika Serikat</b>
-          </center>
-        </a> <br> <br>
-        Language: Indonesian <br> <br>
-        Tags: RMA, China, Amerika Serikat, Hubungan Internasional <br> <br>
-        Abstract: China sedang mengalami kebangkitan militer dan ekonomi yang signifikan, yang mengancam 
+        China sedang mengalami kebangkitan militer dan ekonomi yang signifikan, yang mengancam 
         dominasi Amerika Serikat (AS) di kawasan Asia-Pasifik. China menerapkan strategi Revolusi Militer 
         (RMA) asimetris dengan fokus pada peperangan informasi dan anti-access/area denial (A2/AD) untuk 
         mengatasi keunggulan teknologi AS. Kemajuan militer China, meskipun terhambat oleh korupsi dan 
         ketergantungan impor teknologi, telah meningkatkan kepercayaan diri negara tersebut dalam 
         melindungi kepentingan nasionalnya. AS perlu memperkuat kerja sama pertahanan dengan sekutu-sekutunya 
         di kawasan untuk mengimbangi ambisi China yang terus meningkat.
-      </p> <br>
+      </p> <br> <br>
 
-      <img
-        src="@/assets/Publications/leadership_communication.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <a href="https://drive.google.com/file/d/1IgvU3kCKvwZTdWEohP3yc5aAvJv7VYzD/view?usp=drive_link" target="_blank" class="publication-link">
+        Makalah - Komunikasi Kepemimpinan
+        <img src="@/assets/Publications/leadership_communication.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> Leadership, Communication </h4>
       <p class="paragraph">
-        <a href="https://drive.google.com/file/d/1IgvU3kCKvwZTdWEohP3yc5aAvJv7VYzD/view?usp=drive_link" target="_blank">
-          <center>
-            <b>Makalah - Komunikasi Kepemimpinan</b>
-          </center>
-        </a> <br> <br>
-        Language: Indonesian <br> <br>
-        Tags: Leadership, Communication <br> <br>
-        Abstract: Komunikasi kepemimpinan merupakan aspek penting dalam organisasi, di mana gaya 
+        Komunikasi kepemimpinan merupakan aspek penting dalam organisasi, di mana gaya 
         komunikasi yang diterapkan pemimpin dapat memengaruhi efektivitas organisasi dalam mencapai 
         tujuannya. Manfaat komunikasi kepemimpinan meliputi peningkatan alur informasi, fungsi persuasif, 
         dan integrasi komunikasi. Pentingnya komunikasi kepemimpinan terletak pada kemampuannya untuk 
@@ -195,50 +151,39 @@
     <hr>
 
     <div class="inner-content">
-      <h3 class="heading"><b>2021</b></h3>
+      <h3 class="year">
+        2021
+      </h3>
 
-      <img
-        src="@/assets/Publications/terrorism_bali.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <a href="https://drive.google.com/file/d/1kZUXtfVY3BzvQFO-nq_PN9YUJQLfRzqU/view?usp=drive_link" target="_blank" class="publication-link">
+        Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali)
+        <img src="@/assets/Publications/terrorism_bali.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> ASEAN, Human Security, Terorisme </h4>
       <p class="paragraph">
-        <a href="https://drive.google.com/file/d/1kZUXtfVY3BzvQFO-nq_PN9YUJQLfRzqU/view?usp=drive_link" target="_blank">
-          <center>
-            <b>Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali)</b>
-          </center>
-        </a> <br> <br>
-        Language: Indonesian <br> <br>
-        Tags: ASEAN, Human Security, Terorisme <br> <br>
-        Abstract: Terorisme merupakan ancaman serius bagi keamanan manusia di Asia Tenggara. ASEAN 
+        Terorisme merupakan ancaman serius bagi keamanan manusia di Asia Tenggara. ASEAN 
         telah menunjukkan komitmennya dalam memerangi terorisme dengan membentuk berbagai kelompok 
         kerja dan regulasi, seperti ASEAN Ministerial Meeting on Transnational Crime (AMMTC), ASEAN 
         Political-Security Community (APSC), Asean Convention on Counter Terrorism (ACCT), dan ASEAN 
         Regional Forum (ARF). Upaya ini bertujuan untuk meningkatkan kesadaran, koordinasi, dan 
         kerjasama antarnegara dalam menangani terorisme, serta memperkuat fondasi keamanan manusia 
         di kawasan ini.
-      </p> <br>
+      </p> <br> <br>
 
-      <img
-        src="@/assets/Publications/instagram.jpg"
-        alt="Publications"
-        class="hero"
-      />
+      <a href="https://drive.google.com/file/d/11fhoaUxheGccLUhsBpU2NdL3lm6Ddr8D/view?usp=drive_link" target="_blank" class="publication-link">
+        Pengaruh Penggunaan Sosial Media Instagram terhadap Perilaku Remaja
+        <img src="@/assets/Publications/instagram.jpg" alt="Publications" class="images" />
+      </a>
+      <h4 class="tags"> Social Media, Instagram, Perilaku, Remaja </h4>
       <p class="paragraph">
-        <a href="https://drive.google.com/file/d/11fhoaUxheGccLUhsBpU2NdL3lm6Ddr8D/view?usp=drive_link" target="_blank">
-          <center>
-            <b>Pengaruh Penggunaan Sosial Media Instagram terhadap Perilaku Remaja</b>
-          </center>
-        </a> <br> <br>
-        Language: Indonesian <br> <br>
-        Tags: Social Meadia, Instagram, Perilaku, Remaja <br> <br>
-        Abstract: Perkembangan teknologi komunikasi dan informasi, khususnya Instagram, membawa 
+        Perkembangan teknologi komunikasi dan informasi, khususnya Instagram, membawa 
         perubahan signifikan pada pola perilaku dan kehidupan remaja. Penelitian ini bertujuan 
         untuk mengetahui pengaruh Instagram terhadap perilaku remaja, baik dampak positif maupun 
         negatif. Metode kualitatif deskriptif dengan kuesioner digunakan untuk mengumpulkan data 
         dari remaja usia 17-23 tahun. Hasil penelitian menunjukkan bahwa Instagram dapat memengaruhi 
-        perilaku remaja, tergantung pada cara penggunaannya. Penelitian ini penting untuk memahami dampak Instagram pada remaja dan membantu mereka menggunakannya secara bertanggung jawab.
-      </p>
+        perilaku remaja, tergantung pada cara penggunaannya. Penelitian ini penting untuk memahami 
+        dampak Instagram pada remaja dan membantu mereka menggunakannya secara bertanggung jawab.
+      </p> <br> <br>
 
     </div>
 
@@ -256,7 +201,11 @@
 
 .images {
   width: 100%;
-  height: 350px;
+  /* height: 350px; */
+  background-position: center center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding-top: 10px;
   /* object-fit: cover; */
 }
 
@@ -266,19 +215,37 @@
   object-fit: cover;
 }
 
+.title{
+  text-align: center;
+}
+
 .subtitle {
-  font-size: 12px;
+  font-size: 14px;
   color: gray;
   text-align: center;
 }
 
 .heading {
   padding-bottom: 5px;
+  font-weight: bold;
 }
 
 .inner-content {
   padding-top: 30px;
   padding-bottom: 30px;
+}
+
+.year {
+  padding-bottom: 20px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.tags {
+  font-size: 12px;
+  color: gray;
+  text-align: center;
+  padding-bottom: 5px;
 }
 
 h6,
@@ -287,8 +254,25 @@ h3 {
   padding: 0;
 }
 
+a {
+  display: flex;
+  justify-content: center;
+  color: rgba(0, 0, 0, 0.918);
+  text-decoration: none;
+  text-align: center;
+  font-weight: bold;
+}
+
 p {
   text-align: justify;
+  font-size: 15px;
 }
+
+.publication-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
 
 </style>

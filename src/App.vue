@@ -178,8 +178,9 @@ export default {
 
     function resetHeight() {
       document.body.style.height = window.innerHeight + "px";
-      document.html.style.height = window.innerHeight + "px";
+      document.documentElement.style.height = window.innerHeight + "px";
     }
+
     window.addEventListener("resize", resetHeight);
     this.$store.commit(
       "setFullscreenWindowHeight",
@@ -187,6 +188,7 @@ export default {
     );
 
     this.openWindow("BiographyWindow");
+
   },
   methods: {
     openWindow(windowId) {

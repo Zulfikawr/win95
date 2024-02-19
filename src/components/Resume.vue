@@ -37,7 +37,7 @@
         >
           <img
             class="icon-image"
-            src="../assets/iPhone-Icons/resume.png"
+            src="../assets/icons/win95icons/resume.png"
           />Résumé
         </div>
         <div class="triple-button">
@@ -81,7 +81,7 @@
       <div class="content">
         <div class="download-bar">
           <a
-            href="/files/don_chia_resume.pdf"
+            href="/files/resume.pdf"
             class="download"
             style="z-index: 10"
             download
@@ -94,7 +94,7 @@
           </a>
 
           <a
-            href="/files/don_chia_resume.pdf"
+            href="/files/resume.pdf"
             class="download"
             style="z-index: 10"
             target="_blank"
@@ -112,7 +112,7 @@
           <iframe
             @click.native="focusResume"
             class="frame"
-            src="https://drive.google.com/file/d/1JbqfFRdU42pfgmA8ItUWwHJA3W-EbiW6/preview"
+            src="https://drive.google.com/file/d/15Xa5n851VDXY0oTBWl72Ei0sjdr4rYpv/preview"
           ></iframe>
           <div
             v-if="$store.getters.activeWindow != 'Resume'"

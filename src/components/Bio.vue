@@ -65,7 +65,7 @@
 
     <div class="inner-content">
       <h3 class="heading"><b>About Me</b></h3>
-      <p class="paragraph" style="text-align: justify;">
+      <p class="paragraph">
         Hello there! I'm Zulfikar from Jakarta, a 20-year-old student with a passion 
         for both International Relations and Data Analytics. Currently, I am in my 4th semester 
         at Universitas Pembangunan Nasional Veteran Jakarta.
@@ -121,7 +121,7 @@
     <hr>
 
     <div class="inner-content">
-      <h3 class="heading"><b>Experiences</b></h3><br>
+      <h3 class="heading"><b>Experiences</b></h3>
       <b> Data Analyst - Quantium </b>
       <p class="paragraph">
         December 2023 - February 2024 <br> <br>
@@ -203,7 +203,22 @@
     <hr>
 
     <div class="inner-content">
-      <h3 class="heading"><b>Skills</b></h3><br>
+      <h3 class="heading"><b>Skills</b></h3>
+      <p class="paragraph">
+        As a student interested in global issues and data science, I have worked hard to build many different 
+        skills. It all started with learning basic office tools like Microsoft Office 365 and Google Workspace. 
+        These tools helped me work well with others and manage documents easily. After that, I got really 
+        interested in data analysis. I learned how to use Excel, Python, R, and SQL (Microsoft SQL Server, 
+        Google BigQuery, MySQL) to find important information in large datasets and see patterns. <br> <br>
+        To make these insights easier to understand, I learned how to create visualizations using tools like 
+        Matplotlib, Power BI, Tableau, and Google Looker Studio. With each visualization, I learned how to 
+        communicate complex information in a clear and interesting way, using eye-catching visuals to explain 
+        the data. During this process, I also developed important soft skills, like analytical thinking, 
+        communication, problem-solving, time management, teamwork, and presentation and interview skills. 
+        These abilities helped me deal with challenges, work well with others, and explain my ideas clearly 
+        and confidently. As I continue to learn and grow, I am excited to use my technical and personal skills 
+        to contribute to interesting projects that help us understand the world better.
+      </p>
     </div>
 
     <hr>
@@ -212,7 +227,7 @@
       <h3 class="heading"><b>Résumé</b></h3>
       <a
         style="color: #ff5733"
-        href="/files/don_chia_resume.pdf"
+        href="/files/resume.pdf"
         class="paragraph"
         >Check out my résumé here.</a
       >

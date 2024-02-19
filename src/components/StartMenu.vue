@@ -45,7 +45,7 @@
         </div>
       </a>
 
-      <a href="/files/don_chia_resume.pdf" target="_self">
+      <a href="/files/resume.pdf" target="_self">
         <div class="bar">
           <img class="social-image" src="@/assets/icons/win95icons/text.png" />
           <u>R</u>ésumé

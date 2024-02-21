@@ -26,7 +26,7 @@
       <div class="window-name">
         <img
           class="icon-image"
-          :src="require('@/assets/icons/win95icons/' + this.window.iconImage)"
+          :src="require('@/assets/icons/win95/' + this.window.iconImage)"
           :alt="window.altText"
         />{{ this.window.displayName }}
       </div>
@@ -92,19 +92,19 @@
               <img
                 v-if="file.type == 'file'"
                 class="icon-image-photos"
-                :src="require('../../assets/icons/win95icons/image.png')"
+                :src="require('../../assets/icons/win95/image.png')"
                 :alt="file.altText"
               />
               <img
                 v-else-if="file.type == 'folder'"
                 class="icon-image-photos"
-                :src="require('../../assets/icons/win95icons/folder.png')"
+                :src="require('../../assets/icons/win95/folder.png')"
                 :alt="file.altText"
               />
               <img
                 v-else-if="file.type == 'video'"
                 class="icon-image-photos"
-                :src="require('../../assets/icons/win95icons/video.png')"
+                :src="require('../../assets/icons/win95/video.png')"
                 :alt="file.altText"
               />
               <div class="border">

@@ -1,16 +1,12 @@
 <template>
   <div>
-    <img
-      src="@/assets/Publications/publications.jpg"
-      alt="Publications"
-      class="hero"
-    />
+
     <div class="inner-content">
         <h3 class="title">
           Publications
         </h3>
         <h4 class="subtitle">
-          A complete lists of my academic papers, articles, journals, and publications.
+          A complete collection of my academic works, including papers, articles, journals, and publications. Mostly IR-related stuff.
         </h4>
     </div>
 
@@ -21,9 +17,9 @@
       
       <a href="https://medium.com/@2110412039/konflik-panjang-palestina-israel-dan-restrukturisasi-dk-pbb-35fc1a14a18b" target="_blank" class="publication-link">
         Konflik Panjang Palestina-Israel dan Restrukturisasi DK PBB
-        <img src="@/assets/Publications/palestine.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/palestine.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> Humanitarian Law, Conflict, UNSC, Keamanan Global </h4>
+      <p class="tags"> Humanitarian Law, Conflict, UNSC, Keamanan Global </p>
       <p class="paragraph">
         Konflik Palestina-Israel, bermula dari peristiwa tahun 1948, telah berkembang menjadi 
         krisis multiaspek yang ditandai oleh pengusiran massal, tantangan kemanusiaan, dan kejahatan 
@@ -38,9 +34,9 @@
 
       <a href="https://drive.google.com/file/d/1HacCQxrMD6BF-KPvgTs04wySjd1A2O8j/view?usp=drive_link" target="_blank" class="publication-link">
         Diplomasi Lingkungan Indonesia di Era Kepemimpinan Susilo Bambang Yudhoyono. Studi Kasus Kabut Asap Lintas Batas di Asia Tenggara
-        <img src="@/assets/Publications/haze.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/haze.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> Diplomasi, Lingkungan, Kebijakan Luar Negeri, Indonesia, SBY </h4>
+      <p class="tags"> Diplomasi, Lingkungan, Kebijakan Luar Negeri, Indonesia, SBY </p>
       <p class="paragraph">
         Diplomasi lingkungan Indonesia di era SBY mengalami dinamika dalam menangani kabut asap 
         lintas batas. Kebakaran hutan dan lahan di Indonesia menyebabkan kabut asap yang berdampak pada 
@@ -56,9 +52,9 @@
 
       <a href="https://drive.google.com/file/d/16AyiycAvmZmc2YKN8wPlvkbatkPcqbQ5/view?usp=drive_link" target="_blank" class="publication-link">
         Digitalisasi sebagai Pendorong Utama Soft Power Negara di Era Globalisasi
-        <img src="@/assets/Publications/digitalization.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/digitalization.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> Digitalisasi, Diplomasi Digital, Kebijakan Luar Negeri, Soft Power </h4>
+      <p class="tags"> Digitalisasi, Diplomasi Digital, Kebijakan Luar Negeri, Soft Power </p>
       <p class="paragraph">
         Di era globalisasi, digitalisasi menjadi pendorong utama soft power negara. 
         Media sosial dan platform digital memperluas jangkauan pengaruh budaya, nilai-nilai, dan 
@@ -72,9 +68,9 @@
 
       <a href="https://drive.google.com/file/d/1TlRUMkK2m3GK6vY4fVX2B-mO_3YrOQ8D/view?usp=drive_link" target="_blank" class="publication-link">
         Invasi Rusia ke Ukraina 2022 dalam Perspektif Hukum Internasional
-        <img src="@/assets/Publications/russia_invasion.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/russia_invasion.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> Hukum Internasional, Invasi, Rusia, Ukraina </h4>
+      <p class="tags"> Hukum Internasional, Invasi, Rusia, Ukraina </p>
       <p class="paragraph">
         Invasi Rusia ke Ukraina pada tahun 2022 merupakan pelanggaran serius terhadap hukum 
         internasional. Tindakan ini tidak memiliki pembenaran dan merupakan penggunaan kekuatan dan 
@@ -90,9 +86,9 @@
 
       <a href="https://medium.com/@2110412039/the-importance-of-security-training-for-employees-a-case-study-analysis-of-security-incidents-adf70a4b5d27" target="_blank" class="publication-link">
         The Importance of Security Training: A Case Study Analysis of Security Incidents Caused by Knowledge Deficiencies
-        <img src="@/assets/Publications/cybersecurity.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/cybersecurity.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> Cybersecurity, Cyberattacks, COVID-19 Study Case </h4>
+      <p class="tags"> Cybersecurity, Cyberattacks, COVID-19 Study Case </p>
       <p class="paragraph">
         Information security stands as a critical pillar for business continuity in today's 
         digital landscape, yet individuals, often the weakest link, remain susceptible to cyberattacks. 
@@ -116,9 +112,9 @@
 
       <a href="https://medium.com/@2110412039/revolution-in-military-affairs-kebangkitan-dan-revolusi-china-dalam-militer-dan-ekonomi-yang-9d3122af8dcf" target="_blank" class="publication-link">
         Revolution in Military Affairs: Kebangkitan dan Revolusi China dalam Militer dan Ekonomi yang mengancam Amerika Serikat
-        <img src="@/assets/Publications/rma_china.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/rma_china.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> RMA, China, Amerika Serikat, Hubungan Internasional </h4>
+      <p class="tags"> RMA, China, Amerika Serikat, Hubungan Internasional </p>
       <p class="paragraph">
         China sedang mengalami kebangkitan militer dan ekonomi yang signifikan, yang mengancam 
         dominasi Amerika Serikat (AS) di kawasan Asia-Pasifik. China menerapkan strategi Revolusi Militer 
@@ -131,9 +127,9 @@
 
       <a href="https://drive.google.com/file/d/1IgvU3kCKvwZTdWEohP3yc5aAvJv7VYzD/view?usp=drive_link" target="_blank" class="publication-link">
         Makalah - Komunikasi Kepemimpinan
-        <img src="@/assets/Publications/leadership_communication.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/leadership_communication.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> Leadership, Communication </h4>
+      <p class="tags"> Leadership, Communication </p>
       <p class="paragraph">
         Komunikasi kepemimpinan merupakan aspek penting dalam organisasi, di mana gaya 
         komunikasi yang diterapkan pemimpin dapat memengaruhi efektivitas organisasi dalam mencapai 
@@ -157,9 +153,9 @@
 
       <a href="https://drive.google.com/file/d/1kZUXtfVY3BzvQFO-nq_PN9YUJQLfRzqU/view?usp=drive_link" target="_blank" class="publication-link">
         Peran ASEAN dalam Mengatasi Masalah Human Security Terorisme (Studi Kasus Bom Bali)
-        <img src="@/assets/Publications/terrorism_bali.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/terrorism_bali.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> ASEAN, Human Security, Terorisme </h4>
+      <p class="tags"> ASEAN, Human Security, Terorisme </p>
       <p class="paragraph">
         Terorisme merupakan ancaman serius bagi keamanan manusia di Asia Tenggara. ASEAN 
         telah menunjukkan komitmennya dalam memerangi terorisme dengan membentuk berbagai kelompok 
@@ -172,9 +168,9 @@
 
       <a href="https://drive.google.com/file/d/11fhoaUxheGccLUhsBpU2NdL3lm6Ddr8D/view?usp=drive_link" target="_blank" class="publication-link">
         Pengaruh Penggunaan Sosial Media Instagram terhadap Perilaku Remaja
-        <img src="@/assets/Publications/instagram.jpg" alt="Publications" class="images" />
+        <img src="@/assets/images/publications/instagram.jpg" alt="Publications" class="images" />
       </a>
-      <h4 class="tags"> Social Media, Instagram, Perilaku, Remaja </h4>
+      <p class="tags"> Social Media, Instagram, Perilaku, Remaja </p>
       <p class="paragraph">
         Perkembangan teknologi komunikasi dan informasi, khususnya Instagram, membawa 
         perubahan signifikan pada pola perilaku dan kehidupan remaja. Penelitian ini bertujuan 
@@ -206,7 +202,6 @@
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 10px;
-  /* object-fit: cover; */
 }
 
 .images-full {

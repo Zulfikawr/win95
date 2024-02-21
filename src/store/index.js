@@ -103,6 +103,27 @@ export default new Vuex.Store({
         showInNavbar: true,
       },
       {
+        windowId: "CertificationsWindow",
+        windowState: "close",
+        displayName: "Certifications",
+        windowComponent: "window",
+        windowContent: "certifications",
+        windowContentPadding: {
+          top: null,
+          right: null,
+          bottom: null,
+          left: null,
+        },
+        position: "absolute",
+        positionX: "23.6vw",
+        positionY: "9.5vh",
+        iconImage: "directory.png",
+        altText: "Certifications",
+        fullscreen: false,
+        showInAppGrid: true,
+        showInNavbar: true,
+      },
+      {
         windowId: "MailWindow",
         windowState: "close",
         displayName: "Mail",
@@ -191,14 +212,6 @@ export default new Vuex.Store({
       window.fullscreen = payload.fullscreen;
     },
 
-    setPhotoFolderContent(state, payload) {
-      state.photoFolderContent = payload;
-    },
-
-    setCurrentVideo(state, payload) {
-      state.currentVideo = payload;
-    },
-
     // Window State Mutator
     setWindowState(state, payload) {
       // payload = {'windowState': 'open', 'windowID': 'WindowOne'}
@@ -257,26 +270,6 @@ export default new Vuex.Store({
 
     getWindowFullscreen: (state) => (id) => {
       return state.windows.find((window) => window.windowId === id).fullscreen;
-    },
-
-    getPhotoFolderContent(state) {
-      return state.photoFolderContent;
-    },
-
-    getPhotoFiles: (state) => {
-      return state.photoFiles;
-    },
-
-    getSongAlbumFiles: (state) => {
-      return state.songAlbumFiles;
-    },
-
-    getVideoFiles: (state) => {
-      return state.videoFiles;
-    },
-
-    getCurrentVideo: (state) => {
-      return state.currentVideo;
     },
 
     getWindows: (state) => {

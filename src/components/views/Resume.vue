@@ -9,7 +9,7 @@
         target="_blank"
       >
         <span style="display: flex" class="border">
-          <img src="@/assets/icons/win95icons/download.png" class="icon-image" />
+          <img src="@/assets/icons/win95/download.png" class="icon-image" />
           <p style="margin-top: 2px">Download</p>
         </span>
       </a>
@@ -21,24 +21,21 @@
         target="_blank"
       >
         <span style="display: flex" class="border">
-          <img src="@/assets/icons/win95icons/open.png" class="icon-image" />
+          <img src="@/assets/icons/win95/open.png" class="icon-image" />
           <p style="margin-top: 2px">Open In New Tab</p>
         </span>
       </a>
     </nav>
     <div
       class="frame"
-      @click.native="openWindow('ResumeWindow')"
       style="z-index: 99"
     >
       <iframe
-        @click.native="openWindow('ResumeWindow')"
         class="frame"
         src="https://drive.google.com/file/d/15Xa5n851VDXY0oTBWl72Ei0sjdr4rYpv/preview"
       ></iframe>
       <span
         v-if="$store.getters.getActiveWindow != 'ResumeWindow'"
-        @click.native="openWindow('ResumeWindow')"
         style="bottom: 0; left: 0; width: 100%; height: 95%; position: absolute"
         class="overlay"
       ></span>

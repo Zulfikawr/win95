@@ -117,11 +117,11 @@ import Navbar from "./components/windows/Navbar";
 import Window from "./components/template/Window";
 import AppGrid from "./components/AppGrid";
 import FilesWindow from "./components/template/FilesWindow.vue";
-import Placeholder from "./components/views/Placeholder";
 import Bio from "./components/views/Bio";
 import Resume from "./components/views/Resume";
 import Projects from "./components/views/Projects";
 import Publications from "./components/views/Publications";
+import Certifications from "./components/views/Certifications";
 import Mail from "./components/template/Mail";
 import StartMenu from "./components/StartMenu.vue";
 
@@ -137,12 +137,12 @@ export default {
     Window,
     Navbar,
     AppGrid,
-    Placeholder,
     FilesWindow,
     Bio,
     Resume,
     Projects,
     Publications,
+    Certifications,
     Mail,
     StartMenu,
 

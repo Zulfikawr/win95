@@ -1,6 +1,5 @@
 <template>
   <div>
-    <center>
       <h2 class="header">Muhammad Zulfikar</h2>
       <h4 class="subtitle" style="padding-bottom: 10px">
         Data Analyst | Quantitative Research | International Relations
@@ -58,11 +57,23 @@
       />
 
     </div>
-    </center>
+
+    <br> <hr> <br>
+
+    <div class="table-of-contents">
+      <h3 class="heading">Table of Contents</h3>
+      <ul>
+        <li><a href="#about-me" @click.prevent="scrollToSection('about-me')">About Me</a></li>
+        <li><a href="#educations" @click.prevent="scrollToSection('educations')">Educations</a></li>
+        <li><a href="#experiences" @click.prevent="scrollToSection('experiences')">Experiences</a></li>
+        <li><a href="#skills" @click.prevent="scrollToSection('skills')">Skills</a></li>
+        <li><a href="#resume" @click.prevent="scrollToSection('resume')">Résumé</a></li>
+      </ul>
+    </div>
 
     <br> <hr>
 
-    <div class="inner-content">
+    <div class="inner-content" id="about-me">
       <h3 class="heading"><b>About Me</b></h3>
       <p class="paragraph">
         Hello there! I'm Zulfikar from Jakarta, a 20-year-old student with a passion 
@@ -80,7 +91,7 @@
 
     <hr>
 
-    <div class="inner-content">
+    <div class="inner-content" id="educations">
       <h3 class="heading"><b>Educations</b></h3>
       <p class="paragraph">
         <b>Universitas Pembangunan Nasional Veteran Jakarta</b><br>
@@ -115,7 +126,7 @@
 
     <hr>
 
-    <div class="inner-content">
+    <div class="inner-content" id="experiences">
       <h3 class="heading"><b> Experiences </b></h3>
       <p class="paragraph">
         <b> Quantium | Data Science & AI </b><br>
@@ -132,14 +143,14 @@
         My responsibilities in this internship included:
         <br> <br>
 
-        - Analyzed transaction and customer data to identify trends and inconsistencies.<br>
-        - Developed metrics and examine sales drivers to gain insights into overall sales performance. <br>
-        - Created visualizations and prepare findings to formulate a clear recommendation for the client's strategy.<br>
-        - Defined metrics to select control stores.<br>
-        - Analyzed trial stores against controls.<br>
-        - Used Python for data analysis and visualization and summarise findings and provide recommendations.<br>
-        - Used the Pyramid Principles framework for structuring the report.<br>
-        - Created a report that incorporates data visualizations, key insights, and recommendations.
+        <li>Analyzed transaction and customer data to identify trends and inconsistencies.</li>
+        <li>Developed metrics and examine sales drivers to gain insights into overall sales performance.</li>
+        <li>Created visualizations and prepare findings to formulate a clear recommendation for the client's strategy.</li>
+        <li>Defined metrics to select control stores.</li>
+        <li>Analyzed trial stores against controls.</li>
+        <li>Used Python for data analysis and visualization and summarise findings and provide recommendations.</li>
+        <li>Used the Pyramid Principles framework for structuring the report.</li>
+        <li>Created a report that incorporates data visualizations, key insights, and recommendations.</li>
       </p> <br>
 
       <p class="paragraph">
@@ -167,13 +178,13 @@
         
         My responsibilities during the IDX Partners x Rakamin Academy Virtual Internship as a Data Scientist included: <br> <br>
         
-        - Applying data science methodology to analyze transaction and customer data, identifying trends and inconsistencies.<br>
-        - Mastering and implementing various skills and tools, such as Big Data Fundamentals, Statistics & Data Analytics, SQL Querying, R Programming, Python Programming, Machine Learning, and more.<br>
-        - Collaborating with different departments in a lending company project to provide technological solutions.<br>
-        - Building a predictive credit risk model using a dataset containing both accepted and rejected loan data.<br>
-        - Preparing visual media to effectively present the developed solution to the client.<br>
-        - Ensuring clarity, readability, and communicativeness in the visual media created.<br>
-        - Developing the end-to-end solution using my programming language of choice within the Data Science framework/methodology.<br>
+        <li>Applying data science methodology to analyze transaction and customer data, identifying trends and inconsistencies.</li>
+        <li>Mastering and implementing various skills and tools, such as Big Data Fundamentals, Statistics & Data Analytics, SQL Querying, R Programming, Python Programming, Machine Learning, and more.</li>
+        <li>Collaborating with different departments in a lending company project to provide technological solutions.</li>
+        <li>Building a predictive credit risk model using a dataset containing both accepted and rejected loan data.</li>
+        <li>Preparing visual media to effectively present the developed solution to the client.</li>
+        <li>Ensuring clarity, readability, and communicativeness in the visual media created.</li>
+        <li>Developing the end-to-end solution using my programming language of choice within the Data Science framework/methodology.</li>
       </p> <br>
 
       <p class="paragraph">
@@ -195,7 +206,7 @@
 
     <hr>
 
-    <div class="inner-content">
+    <div class="inner-content" id="skills">
       <h3 class="heading"><b>Skills</b></h3>
       <p class="paragraph">
         As a student interested in global issues and data science, I have worked hard to build many different 
@@ -216,21 +227,41 @@
 
     <hr>
 
-    <div class="inner-content">
+    <div class="inner-content" id="resume">
       <h3 class="heading"><b>Résumé</b></h3>
-      <a
-        style="color: #ff5733"
+      <button
+        style="text-decoration: underline;"
         href="/files/resume.pdf"
-        class="paragraph"
-        >Check out my résumé here.</a
-      >
+        class="paragraph">
+        Check out my résumé here.
+      </button>
     </div>
   </div>
 </template>
 
+<script>
+export default {
+  methods: {
+    scrollToSection(sectionId) {
+      const element = document.getElementById(sectionId);
+      if (element) {
+        element.scrollIntoView({
+          behavior: 'smooth',
+          // block: 'start',
+        });
+      }
+    },
+  },
+};
+</script>
+
 <style scoped>
+
 .badge-grid {
   display: table;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
   align-items: center;
   margin-top: 20px;
 }
@@ -253,6 +284,7 @@
 .subtitle {
   font-size: 12px;
   color: gray;
+  text-align: center;
 }
 
 .heading {
@@ -262,6 +294,7 @@
 .header {
   padding-top: 20px;
   padding-bottom: 20px;
+  text-align: center;
 }
 
 .inner-content {
@@ -276,7 +309,7 @@ h3 {
 }
 
 p {
-  text-align: justify;
+  /* text-align: justify; */
   font-size: 15px;
 }
 .year {
@@ -288,6 +321,19 @@ li {
   list-style: square;
   padding-top: 10px;
   font-size: 15px;
+}
+
+.table-of-contents li {
+  margin-bottom: 5px;
+}
+
+.table-of-contents a {
+  text-decoration: none;
+  color: blue;
+}
+
+.table-of-contents a:hover {
+  text-decoration: underline;
 }
 
 </style>

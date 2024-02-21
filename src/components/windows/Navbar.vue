@@ -18,7 +18,7 @@
             : 'container-border'
         "
       >
-        <img class="start-icon" src="@/assets/icons/win95icons/win95.png" />
+        <img class="start-icon" src="@/assets/icons/win95/win95.png" />
         <button style="padding-left: 3px; font-size: 0.9rem; font-weight: bold">
           Start
         </button>
@@ -35,7 +35,7 @@
       >
         <img
           class="icon-image"
-          :src="require('@/assets/icons/win95icons/' + window.iconImage)"
+          :src="require('@/assets/icons/win95/' + window.iconImage)"
           :alt="window.altText"
         />
         <p>{{ window.displayName }}</p>
@@ -47,7 +47,7 @@
       >
         <img
           class="icon-image"
-          :src="require('@/assets/icons/win95icons/' + window.iconImage)"
+          :src="require('@/assets/icons/win95/' + window.iconImage)"
           :alt="window.altText"
         />
         <p>{{ window.displayName }}</p>
@@ -55,7 +55,7 @@
     </div>
     <div class="spacer"></div>
     <div alt="time" class="time">
-      <img src="@/assets/icons/win95icons/speakers.png" class="icon-image" />
+      <img src="@/assets/icons/win95/speakers.png" class="icon-image" />
       <time>
         {{ time }}
       </time>

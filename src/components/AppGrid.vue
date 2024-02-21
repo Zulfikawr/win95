@@ -9,7 +9,7 @@
       >
         <img
           class="icon-image"
-          :src="require('../assets/icons/win95icons/' + window.iconImage)"
+          :src="require('../assets/icons/win95/' + window.iconImage)"
           :alt="window.altText"
         />
         <div class="border">

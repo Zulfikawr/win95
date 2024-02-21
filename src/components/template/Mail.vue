@@ -41,7 +41,7 @@
         <div class="window-name">
           <img
             class="icon-image"
-            :src="require('@/assets/icons/win95icons/' + this.window.iconImage)"
+            :src="require('@/assets/icons/win95/' + this.window.iconImage)"
             :alt="window.altText"
           />{{ this.window.displayName }}
         </div>
@@ -84,7 +84,7 @@
       <div class="send-bar">
         <button type="submit" class="sent" style="z-index: 10">
           <span class="border">
-            <img src="@/assets/icons/win95icons/send.png" class="icon-image" />
+            <img src="@/assets/icons/win95/send.png" class="icon-image" />
             <p style="margin-top: 2px; color: black">Send</p>
           </span>
         </button>

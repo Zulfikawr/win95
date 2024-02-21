@@ -1,7 +1,7 @@
 <template>
   <div class="menu" style="z-index: 1000000">
     <div class="sidebar">
-      <img class="sidebar-image" src="@/assets/icons/win95icons/sidebar-image.png" />
+      <img class="sidebar-image" src="@/assets/icons/win95/sidebar-image.png" />
     </div>
     <div class="socials">
 
@@ -9,14 +9,14 @@
         href="https://www.linkedin.com/in/muhammad-zulfikar-076a7b227"
         target="_blank">
         <div class="bar">
-          <img class="social-image" src="@/assets/icons/win95icons/social/linkedin.png" />
+          <img class="social-image" src="@/assets/icons/social/linkedin.png" />
           <u>L</u>inkedIn
         </div>
       </a>
 
       <a href="https://github.com/muhammad-zulfikar" target="_blank">
         <div class="bar">
-          <img class="social-image" src="@/assets/icons/win95icons/social/github.svg" />
+          <img class="social-image" src="@/assets/icons/social/github.svg" />
           <u>G</u>itHub
         </div>
       </a>
@@ -25,7 +25,7 @@
         <div class="bar">
           <img
             class="social-image"
-            src="@/assets/icons/win95icons/social/whatsapp.png"
+            src="@/assets/icons/social/whatsapp.png"
           />
           <div class="social-text"><u>W</u>hatsApp</div>
         </div>
@@ -33,21 +33,21 @@
 
       <a href="https://telegram.com/spookies/" target="_blank">
         <div class="bar">
-          <img class="social-image" src="@/assets/icons/win95icons/social/telegram.png" />
+          <img class="social-image" src="@/assets/icons/social/telegram.png" />
           <u>T</u>elegram
         </div>
       </a>      
 
       <a href="https://www.kaggle.com/zulfikarmuhammad/" target="_blank">
         <div class="bar">
-          <img class="social-image" src="@/assets/icons/win95icons/social/kaggle.png" />
+          <img class="social-image" src="@/assets/icons/social/kaggle.png" />
           <u>K</u>aggle
         </div>
       </a>
 
       <a href="/files/resume.pdf" target="_self">
         <div class="bar">
-          <img class="social-image" src="@/assets/icons/win95icons/text.png" />
+          <img class="social-image" src="@/assets/icons/win95/text.png" />
           <u>R</u>ésumé
         </div>
       </a>
@@ -56,7 +56,7 @@
 
       <a href="javascript:window.close();" target="_self">
         <div class="bar">
-          <img class="social-image" src="@/assets/icons/win95icons/shutdown.png" />
+          <img class="social-image" src="@/assets/icons/win95/shutdown.png" />
           <u>S</u>hut Down...
         </div>
       </a>
